@@ -1,0 +1,17 @@
+3
+NT
+double
+West
+South
+12
+False
+False
+1
+North
+2S
+East
+5D
+South
+AD
+West
+KD
